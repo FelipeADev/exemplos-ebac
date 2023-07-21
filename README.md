@@ -1,2 +1,2 @@
 # exemplos-ebac
-Primeiro exemplo de commit e push no repositorio remoto.
+Primeiro exemplo de commit e push no repositório remoto.
